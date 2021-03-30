@@ -11,10 +11,10 @@
 </p>
 
 ## :trophy: My Github stats:
-<!--
+
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
+
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=unexenu&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=unexenu&count_private=true&show_icons=true&theme=tokyonight" />
