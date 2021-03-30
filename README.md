@@ -13,13 +13,13 @@
 ## :trophy: My Github stats:
 
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=unexenu&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=unexenu&hide=php&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=unex&hide=php&theme=tokyonight)
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=unexenu&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=unexenu&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=unex&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=unexenu&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=unexenu&hide=php&theme=tokyonight" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=unex&hide=php&theme=tokyonight" />
 </a>
 </div>
